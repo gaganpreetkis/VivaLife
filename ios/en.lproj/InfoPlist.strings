@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Aristabiotech
+
+  Created by krishna29 on 23/04/21.
+  
+*/
+
+"NSCameraUsageDescription" = "The camera is required to scan the QR code";
+"NSPhotoLibraryUsageDescription" = "The permission is required to upload test photo";
+"CFBundleDisplayName" = "Viva Life";
